@@ -1,0 +1,5 @@
+Name:aakash khadka
+Address:ktm
+Age:22
+Height:80
+Weight:80

@@ -1,0 +1,5 @@
+Name:Aakash Khadka
+Address:Gaurighat
+Age:21
+Height:190
+Weight:68
